@@ -1,0 +1,15 @@
+pront de copilot 
+
+promts 1
+<nav>
+    <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Torneos</a></li>
+        <li><a href="#">Equipos</a></li>
+        <li><a href="#">Contacto</a></li>
+    </ul>
+</nav>
+propocito
+* el nav sirve para realizr un menu dentro del encavesado de la pagina web
+utilidad del promts:
+* util 
