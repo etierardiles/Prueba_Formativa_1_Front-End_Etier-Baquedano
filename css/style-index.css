@@ -14,7 +14,8 @@ body{
 .tituloprincipal{
     color : white;
     text-align: center;
-    padding-bottom: 6rem;
+    padding-bottom: 1.5rem;
+    padding-top: 3rem;
 }
 
 .menu-navegacion{
@@ -24,5 +25,30 @@ body{
     display: inline-block;
     text-align: center;
     padding-left: 10rem;
+    padding-bottom: 1.5rem;
     color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.cuerpo{
+    display: flex;
+    flex-direction: column;
+}
+.torneos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+.torneo{
+    background-color: blue;
+    border-radius: 2rem;
+    padding: 0.5rem; 
+}
+.img-torneo{
+    width: 99%;
+    height: 300px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
