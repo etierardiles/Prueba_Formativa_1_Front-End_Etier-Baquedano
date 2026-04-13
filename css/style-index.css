@@ -21,7 +21,7 @@ body{
 .menu-navegacion{
     text-decoration: none;
 }
-.lisds{
+.item-menu{
     display: inline-block;
     text-align: center;
     padding-left: 10rem;

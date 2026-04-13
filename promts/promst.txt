@@ -13,3 +13,12 @@ propocito
 * el nav sirve para realizr un menu dentro del encavesado de la pagina web
 utilidad del promts:
 * util 
+
+promts 2
+class="item-menu"
+
+propocito:
+* colocar una identificacion a las etiquetas para despues referenciarlas en el css
+
+utiidad del promts
+* util
